@@ -1,0 +1,75 @@
+EnMS Express Devlog
+John L Tysman
+Created: 8-27-2014
+Modified: 4-2-2015
+
+Version 0.0.15 4-15-2015
+
+
+Version 0.0.14 4-14-2015
+-Bound combobox to display baseline EnPI's to the EnPI baseline name's query
+-Re-aranged EnMS_Main GUI
+Known Issues: Baseline values will not plot
+
+Version 0.0.13 4-2-2015
+-EnPI plot now populates series on loading the chart for the first time.
+-Next/Previous buttons added with logic to disable/enable when showing the end of the available baselines
+
+Version 0.0.12 3-31-2015
+-Fixed bugs in employees and baseline forms which prevented relational data from appearing after the forms were opened again
+
+Version 0.0.11 3-28-2015
+-Enabled baseline database on a limited basis
+-Added handles for populating the EnPI chart
+
+Version 0.0.10 1-20-2015
+-Added an ID to the ChangeLog column
+-Added EnPI Baseline Database
+-Added charts and queue to the opening window in preparation for binding with EnPI database
+
+Version 0.0.9 1-16-2015
+-Removed the ability to manually remove, add, or save the change log
+-Fixed a bug with the view energy policies window where navigation between new and old policies did not cycle correctly.
+-Added a binding source adapter to the change log table in the employees window in a step to expand traceability to employees.
+
+Version 0.0.8 1-15-2015
+-Expanded further on historical energy policies stub which allows navigation between 'previous' and 'next' stubs.
+-Added changelog data table for traceability of changes to the EnMS
+	*Change Log table now updated when an energy policy is updated.
+-Energy Policy creation window no longer allows deletion of previous energy policys as a traceability concern
+
+Version 0.0.6 1-14-2015
+-Expanded on historical energy policies stub to add partially functional interface to view existing energy policies
+-When adding a new employee, Managment Rep and Top Managment boxes set as false by default instead of indeterminent.
+
+Version 0.0.5 1-13-2015
+-If no employees exist in the database, an AddItem method is called to create a new item
+-If no energy policies exist in the database, an AddItem method is called to create a new item
+-Added icon to main window
+
+Version 0.0.4 1-6-2015
+-Added 'View Historical Energy Policies' stub
+
+Version 0.0.3 1-5-2015
+-Tied custom icon file to application
+-ComboBox in energy policy window only shows Top Managment employees as submitters
+-Submitter Combobox in energy policy now applies to database on submit
+-Date now applied to database on submit
+
+Version 0.0.2 1-5-2015
+
+-Changed relational key between employees and qualifications so that when qualifications are added before an employee is added, the employee is saved before trying to add the qualification
+-Added Energy Policy window
+	-Tied employees to energy policy submitter drop down box
+-Added 'About Program' window
+
+Version 0.0.1
+
+- Added Splash Screen
+- Added About Window
+- Added Employees Window
+- Fixed bug with qualification table's qualification description being set to a binary entry instead of a varchar.
+- Removed unnecessary ID columns from form.
+
+Known Issues: 
+- When adding a new employee and then adding data to the qualification description or qualification date before saving the new employee, the program crashes.

@@ -1,0 +1,204 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+EnMS_Express
+</name>
+</assembly>
+<members>
+<member name="P:EnMS_Express.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:EnMS_Express.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:EnMS_Express.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSet.ChangeLogDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSet.Energy_PolicyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSet.EmployeesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSet.EnPI_BaselineDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSet.EnPI_Baseline_DataDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSet.QualificationsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSet.RecordDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSet.ProcurementDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSet.DesignDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSet.ChangeLogRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSet.Energy_PolicyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSet.EmployeesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSet.EnPI_BaselineRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSet.EnPI_Baseline_DataRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSet.QualificationsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSet.RecordRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSet.ProcurementRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSet.DesignRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSet.ChangeLogRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSet.Energy_PolicyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSet.EmployeesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSet.EnPI_BaselineRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSet.EnPI_Baseline_DataRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSet.QualificationsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSet.RecordRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSet.ProcurementRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSet.DesignRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSetTableAdapters.ChangeLogTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSetTableAdapters.Energy_PolicyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSetTableAdapters.EmployeesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSetTableAdapters.EnPI_BaselineTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSetTableAdapters.EnPI_Baseline_DataTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSetTableAdapters.QualificationsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSetTableAdapters.RecordTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSetTableAdapters.ProcurementTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSetTableAdapters.DesignTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:EnMS_Express.EnMS_DatabaseDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(EnMS_Express.EnMS_DatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:EnMS_Express.EnMS_DatabaseDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(EnMS_Express.EnMS_DatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:EnMS_Express.EnMS_DatabaseDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(EnMS_Express.EnMS_DatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:EnMS_Express.EnMS_DatabaseDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:EnMS_Express.EnMS_DatabaseDataSetTableAdapters.TableAdapterManager.UpdateAll(EnMS_Express.EnMS_DatabaseDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:EnMS_Express.EnMS_DatabaseDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
